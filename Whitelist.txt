@@ -1,0 +1,36 @@
+# Project home page: https://github.com/anudeepND/whitelist
+
+# Host files
+
+hosts-file.net
+raw.githubusercontent.com
+v.firebog.net
+hostsfile.org
+someonewhocares.org
+hostsfile.mine.nu
+winhelp2002.mvps.org
+sysctl.org
+pgl.yoyo.org
+zeustracker.abuse.ch
+
+# Netflix - Domains needed for netlix to work correctly
+
+api-global.netflix.com
+ichnaea.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+# Share buttons on websites
+
+dsms0mj1bbhn4.cloudfront.net
+shareaholic.com
+
+# URL shorteners
+
+adf.ly
+www.adf.ly
+bit.ly
+www.bit.ly
+goo.gl
+ow.ly
+www.ow.ly
