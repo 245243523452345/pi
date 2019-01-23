@@ -20,7 +20,7 @@ graph.facebook.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
-www.facebook.com
+(^|\.)facebook\.com$
 facebook.com
 facebook.net
 fbcdn.net
