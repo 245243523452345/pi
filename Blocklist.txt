@@ -40,8 +40,9 @@ edge-chat.facebook.com
 
 googleads.g.doubleclick.net
 static.doubleclick.net
-googletagmanager.com/
+googletagmanager.com
 ds-aksb-a.akamaihd.net
+google.com/pagead
 
 
 
