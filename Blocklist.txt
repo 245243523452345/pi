@@ -36,7 +36,12 @@ edge-mqtt.facebook.com
 6-edge-chat.facebook.com
 edge-chat.facebook.com
 
+#Google
 
+googleads.g.doubleclick.net
+static.doubleclick.net
+googletagmanager.com/
+ds-aksb-a.akamaihd.net
 
 
 
