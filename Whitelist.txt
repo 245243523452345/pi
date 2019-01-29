@@ -3,14 +3,14 @@
 # Host files
 
 hosts-file.net
-raw.githubusercontent.com
-v.firebog.net
-hostsfile.org
-someonewhocares.org
 hostsfile.mine.nu
-winhelp2002.mvps.org
-sysctl.org
+hostsfile.org
 pgl.yoyo.org
+raw.githubusercontent.com
+someonewhocares.org
+sysctl.org
+v.firebog.net
+winhelp2002.mvps.org
 zeustracker.abuse.ch
 
 # Netflix - Domains needed for netlix to work correctly
@@ -31,6 +31,14 @@ adf.ly
 www.adf.ly
 bit.ly
 www.bit.ly
-goo.gl
 ow.ly
 www.ow.ly
+
+# Google Play 
+android.clients.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
