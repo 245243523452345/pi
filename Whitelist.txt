@@ -44,4 +44,5 @@ clients5.google.com
 clients6.google.com
 
 #Instagram 
-edge-mqtt.facebook.com
+#edge-mqtt.facebook.com
+instagram.c10r.facebook.com
