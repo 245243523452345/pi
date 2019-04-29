@@ -41,39 +41,40 @@
 #doubleclick.net
 #static.doubleclick.net
 #ds-aksb-a.akamaihd.net
-google.com/pagead
+0.0.0.0 google.com/pagead
 #googleads.g.doubleclick.net
-googleadservices.com
-googletagmanager.com
-manifest.googlevideo.com
-newsstand.googleusercontent.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 newsstand.googleusercontent.com
 
 
 #Google
 
 #192351.engine.mobileapptracking.com
 #a771.dscq.akamai.net
-ads.aerserv.com
-ads.nexage.com
-api.viafoura.co
-bs.scorecardresearch.com
-c.aaxads.com
+0.0.0.0 ads.aerserv.com
+0.0.0.0 ads.nexage.com
+0.0.0.0 api.viafoura.co
+0.0.0.0 bs.scorecardresearch.com
+0.0.0.0 c.aaxads.com
 #c.deployads.com
-collect.adsorb.com
-gransy.com
-i.viafoura.co
+0.0.0.0 collect.adsorb.com
+0.0.0.0 gransy.com
+0.0.0.0 i.viafoura.co
 #l.aaxads.com
-main.exosrv.com
-media.twnmm.com
+0.0.0.0 main.exosrv.com
+0.0.0.0 media.twnmm.com
 #mrtbmopub-nj.lfstmedia.com
-pelmorex-d.openx.net
-play.google.com
+0.0.0.0 pelmorex-d.openx.net
+0.0.0.0 play.google.com
 #sejs.moatads.com
-www.abebooks.com
-zdnstudioe1-a.akamaihd.net
+0.0.0.0 www.abebooks.com
+0.0.0.0 zdnstudioe1-a.akamaihd.net
 
 
 #Words with Friends
+0.0.0.0 sessions.bugsnag.com
 
 
 #Other
