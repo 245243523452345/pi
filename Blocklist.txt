@@ -72,10 +72,15 @@
 0.0.0.0 www.abebooks.com
 0.0.0.0 zdnstudioe1-a.akamaihd.net
 
+#Snapchat
+0.0.0.0 adserver.snapads.com
 
 #Words with Friends
-0.0.0.0 sessions.bugsnag.com
 
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 zynga2-a.akamaihd.net
+0.0.0.0 zoom.zynga.com
 
 #Other
 
