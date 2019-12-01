@@ -54,7 +54,20 @@
 0.0.0.0 zynga2-a.akamaihd.net
 0.0.0.0 zoom.zynga.com
 
-#Other
+#Exported 12/1/2019
+
+applytics.zwyr157wwiu6eior.com
+collector3.xhamster.com
+d.la1-c2ord.salesforceliveagent.comd
+c.applicationinsights.microsoft.com
+mxo4bkqvdityebzvp.xyz
+platform.twitter.com
+pulsar.ebay.com
+s.youtube.com
+safebrowsing.googleapis.com
+telemetry.sdk.inmobi.com
+tptn0rhbtj.infotracker.trackerfix.com
+wd.pocket.com
 
 
 
