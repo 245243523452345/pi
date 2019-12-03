@@ -45,8 +45,8 @@ clients6.google.com
 
 #Instagram 
 #edge-mqtt.facebook.com
-instagram.c10r.facebook.com
-instagram.fyyz1-1.fna.fbcdn.net	
+#instagram.c10r.facebook.com
+#instagram.fyyz1-1.fna.fbcdn.net	
 
 # Exported 12/1/19
 ae01.alicdn.com
