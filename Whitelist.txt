@@ -85,4 +85,17 @@ e5.whatsapp.net
 g.whatsapp.net
 e16.whatsapp.net
 
-# Updated 12/05/2019
+# Updated 3/31/20
+i.instagram.com
+faq.whatsapp.com
+mmg.whatsapp.net
+e5.whatsapp.net
+g.whatsapp.net
+e16.whatsapp.net
+
+instagram.c10r.facebook.com
+l.instagram.com
+edge-mqtt.facebook.com
+ca.lgtvsdp.com
+ca.info.lgsmartad.com
+scontent-ort2-2.cdninstagram.com
