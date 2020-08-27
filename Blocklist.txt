@@ -64,7 +64,7 @@ mxo4bkqvdityebzvp.xyz
 platform.twitter.com
 pulsar.ebay.com
 s.youtube.com
-safebrowsing.googleapis.com
+#safebrowsing.googleapis.com
 telemetry.sdk.inmobi.com
 tptn0rhbtj.infotracker.trackerfix.com
 wd.pocket.com
