@@ -75,5 +75,5 @@ wd.pocket.com
 b.measuread.com
 ca.ad.lgsmartad.com
 
-
+telemetry.tradingview.com
 
