@@ -75,5 +75,36 @@ wd.pocket.com
 b.measuread.com
 ca.ad.lgsmartad.com
 
+#Exported 8/28/2020
 telemetry.tradingview.com
+app-measurement.com
+ampcid.google.com
+probe.twitter.com
+px.moatads.com
+www.podtrac.com
+metrics.icloud.com
+scanner.tradingview.com
+snowplow-pixel.tradingview.com
+crateandbarrel-app.quantummetric.com
+analytics.google.com
+http-intake.logs.datadoghq.com
+logx.optimizely.com
+gstaticadssl.l.google.com
+iadsdk.apple.com
+aax-us-east.amazon-adsystem.com
+s.amazon-adsystem.com
+mads.amazon.com
+ads-interfaces.sc-cdn.net
+ads-api.twitter.com
+static.ads-twitter.com
+adserver.va3.megaphone.cloud
+ads.celtra.com
+app-analytics.snapchat.com
+ads.trafficjunky.net
+report.binance.gg
+device-metrics-us-2.amazon.com
+
+
+
+
 
